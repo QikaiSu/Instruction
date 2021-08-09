@@ -1,3 +1,4 @@
+
 # JDK
 
 
@@ -26,7 +27,7 @@
 - java -version
 
 ## 第四步 ： 显示结果
-
+<img width="1016" alt="WeChate76861f08bdb2840637b2fd6c9349125" src="https://user-images.githubusercontent.com/64019119/128669441-2e35cde9-052a-4574-9065-ebb818f162b2.png">
 - java version "1.8.0_301"
 - Java(TM) SE Runtime Environment (build 1.8.0_301-b09)
 - Java HotSpot(TM) 64-Bit Server VM (build 25.301-b09, mixed mode)
