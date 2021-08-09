@@ -1,4 +1,4 @@
-# Instruction
+# JDK
 
 
 
@@ -30,3 +30,22 @@
 - java version "1.8.0_301"
 - Java(TM) SE Runtime Environment (build 1.8.0_301-b09)
 - Java HotSpot(TM) 64-Bit Server VM (build 25.301-b09, mixed mode)
+
+
+
+# IDE
+
+## 第一步 ：安装IDE
+- 执行： spring-tool-suite-4-4.8.0.RELEASE-e4.15.0-macosx.cocoa.x86_64.dmg
+
+## 第二步 ：IDE启动优化
+- 编辑 SpringToolSuite4.ini，更新以下内容：
+- -Xms2048m
+- -Xmx2048m
+- -XX:+UseG1GC
+- -XX:MaxGCPauseMillis=100 
+- -XX:GCPauseIntervalMillis=500
+- -XX:MetaspaceSize=512M 
+- -Xverify:none
+- -XX:+DisableExplicitGC
+- -XX:-UseBiasedLocking
