@@ -49,3 +49,12 @@
 - -Xverify:none
 - -XX:+DisableExplicitGC
 - -XX:-UseBiasedLocking
+
+
+# Git客户端
+
+## 第一步 ：Git客户端
+- https://git-scm.com/download/mac
+## 第二步 ：brew install 
+- brew install git
+- brew install git-gui
