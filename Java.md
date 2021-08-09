@@ -1,4 +1,5 @@
 
+
 # JDK
 
 
@@ -41,7 +42,7 @@
 - 执行： spring-tool-suite-4-4.8.0.RELEASE-e4.15.0-macosx.cocoa.x86_64.dmg
 
 ## 第二步 ：IDE启动优化
-- 编辑 SpringToolSuite4.ini，更新以下内容：
+- 编辑 SpringToolSuite4.ini，更新：
 - -Xms2048m
 - -Xmx2048m
 - -XX:+UseG1GC
@@ -60,3 +61,5 @@
 ## 第二步 ：brew install 
 - brew install git
 - brew install git-gui
+
+<img width="1134" alt="WeChat380e1d0a8f8bed0453ab360fd3955e43" src="https://user-images.githubusercontent.com/64019119/128669564-2a5d590f-2654-4adc-888e-b65fd838d458.png">
